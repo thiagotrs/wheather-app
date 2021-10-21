@@ -1,27 +1,49 @@
-# JvWeather
+<h1 align="center">Weather APP</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+<p align="center">
+<img src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png" height="150px" />
+</p>
 
-## Development server
+## About
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Weather App is an application that allows you to search the weather of cities around the world.
 
-## Code scaffolding
+This Project was developed for Bootcamp Fullstack Developer in Digital Innovation One.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Technologies
 
-## Build
+- Angular
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Run Project
 
-## Running unit tests
+### Clone Project
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```git
+git clone https://github.com/thiagotrs/wheather-app.git
+```
 
-## Running end-to-end tests
+### WEB
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+```shell
+cd wheather-app
+npm install
+npm start
+```
 
-## Further help
+### URLs
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+```
+http://localhost:4200/
+```
+
+## Author
+
+Thiago Rotondo Sampaio - [GitHub](https://github.com/thiagotrs) / [Linkedin](https://www.linkedin.com/in/thiago-rotondo-sampaio) / [Email](mailto:thiagorot@gmail.com)
+
+## License
+
+This project use MIT license, see the file [LICENSE](./LICENSE.md) for more details
+
+---
+
+<p align="center">Develop by <a href="https://github.com/thiagotrs">Thiago Rotondo Sampaio</a></p>
